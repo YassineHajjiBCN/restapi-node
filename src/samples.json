@@ -1,0 +1,16 @@
+[
+  {
+    "id": "1",
+    "Team": "Lakers",
+    "Manager": "Frank Vogel",
+    "Awards": "16",
+    "Star": "Lebron James"
+  },
+  {
+    "id": "2",
+    "Team": "Clipers",
+    "Manager": "Doc Rivers",
+    "Awards": "'0'",
+    "Star": "Kawhi Leonard"
+  }
+]

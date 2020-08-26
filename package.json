@@ -1,0 +1,22 @@
+{
+  "homepage": "http://YassineHajjiBCN.github.io/restapi-node",
+  "name": "RestAPI-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^2.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "predeploy": "npm run deploy",
+    "deploy": "gh-pages -d builtd",
+
+    "dev": "nodemon src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
